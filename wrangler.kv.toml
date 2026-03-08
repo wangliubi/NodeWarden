@@ -16,4 +16,3 @@ database_name = "nodewarden-db"
 
 [[kv_namespaces]]
 binding = "ATTACHMENTS_KV"
-id = "5441c718d39e49229fc9c0e5ca0eff8f"
